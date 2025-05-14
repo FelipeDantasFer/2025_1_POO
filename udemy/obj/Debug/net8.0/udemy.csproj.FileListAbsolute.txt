@@ -1,0 +1,15 @@
+/workspaces/2025_1_POO/udemy/obj/Debug/net8.0/udemy.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2025_1_POO/udemy/obj/Debug/net8.0/udemy.AssemblyInfoInputs.cache
+/workspaces/2025_1_POO/udemy/obj/Debug/net8.0/udemy.AssemblyInfo.cs
+/workspaces/2025_1_POO/udemy/obj/Debug/net8.0/udemy.csproj.CoreCompileInputs.cache
+/workspaces/2025_1_POO/udemy/obj/Debug/net8.0/udemy.sourcelink.json
+/workspaces/2025_1_POO/udemy/bin/Debug/net8.0/udemy
+/workspaces/2025_1_POO/udemy/bin/Debug/net8.0/udemy.deps.json
+/workspaces/2025_1_POO/udemy/bin/Debug/net8.0/udemy.runtimeconfig.json
+/workspaces/2025_1_POO/udemy/bin/Debug/net8.0/udemy.dll
+/workspaces/2025_1_POO/udemy/bin/Debug/net8.0/udemy.pdb
+/workspaces/2025_1_POO/udemy/obj/Debug/net8.0/udemy.dll
+/workspaces/2025_1_POO/udemy/obj/Debug/net8.0/refint/udemy.dll
+/workspaces/2025_1_POO/udemy/obj/Debug/net8.0/udemy.pdb
+/workspaces/2025_1_POO/udemy/obj/Debug/net8.0/udemy.genruntimeconfig.cache
+/workspaces/2025_1_POO/udemy/obj/Debug/net8.0/ref/udemy.dll
